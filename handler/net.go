@@ -7,7 +7,7 @@ package handler
 
 import (
 	"context"
-	"network/model"
+	"github.com/Kokutas/network/model"
 )
 
 func LocalNetwork(ctx context.Context)(model.NIC,error){

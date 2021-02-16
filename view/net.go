@@ -6,7 +6,7 @@
 package view
 
 import (
-	"application/handler"
+	"github.com/Kokutas/application/handler"
 	"context"
 	"fmt"
 	"fyne.io/fyne/v2"

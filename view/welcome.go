@@ -6,8 +6,8 @@
 package view
 
 import (
-	"application/lib"
-	"application/themes"
+	"github.com/Kokutas/application/lib"
+	"github.com/Kokutas/application/themes"
 	"fyne.io/fyne/v2"
 	"fyne.io/fyne/v2/canvas"
 	"fyne.io/fyne/v2/container"

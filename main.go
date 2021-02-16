@@ -5,7 +5,7 @@
  **/
 package main
 
-import "application/view"
+import "github.com/Kokutas/application/view"
 
 func main(){
 	view.Start()
